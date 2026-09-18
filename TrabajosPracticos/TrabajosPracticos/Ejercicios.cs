@@ -2,9 +2,131 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TrabajosPracticos
+namespace practicoResolucion
 {
-    internal class Ejercicios
+    class Ejercicios
     {
+        static void Main(string[] args)
+        {
+            Practico1 trabajos = new Practico1();
+            Console.WriteLine(" Practico 1: ");
+            Console.WriteLine(" Ejercicio 1 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio1();
+            Console.WriteLine(" Ejercicio 2 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio2();
+            Console.WriteLine(" Ejercicio 3 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio3();
+            Console.WriteLine(" Ejercicio 4 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio4();
+            Console.WriteLine(" Ejercicio 5 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio5();
+            Console.WriteLine(" Ejercicio 6 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio6();
+            Console.WriteLine(" Ejercicio 7 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio7();
+            Console.WriteLine(" Ejercicio 8 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio8();
+            Console.WriteLine(" Ejercicio 9 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio9();
+            Console.WriteLine(" Ejercicio 10 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio10();
+            Console.WriteLine(" Ejercicio 11 y 12 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio11_12();
+            Console.WriteLine(" Ejercicio 13 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio13();
+            Console.WriteLine(" Ejercicio 14 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio14();
+            Console.WriteLine(" Ejercicio 15 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio15();
+            Console.WriteLine(" Ejercicio 16 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio16();
+            Console.WriteLine(" Ejercicio 17 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio17();
+            Console.WriteLine(" Ejercicio 18 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio18();
+            Console.WriteLine(" Ejercicio 19 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio19();
+            Console.WriteLine(" Ejercicio 20 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio20();
+            Console.WriteLine(" Ejercicio 21 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio21();
+            Console.WriteLine(" Ejercicio 22 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio22();
+            Console.WriteLine(" Ejercicio 23 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio23();
+            Console.WriteLine(" Ejercicio 24 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio24();
+            Console.WriteLine(" Ejercicio 25 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio25();
+            Console.WriteLine(" Ejercicio 26 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio26();
+            Console.WriteLine(" Ejercicio 27 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio27();
+            Console.WriteLine(" Ejercicio 28 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio28();
+            Console.WriteLine(" Ejercicio 29 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio29();
+            Console.WriteLine(" Ejercicio 30 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio30();
+            Console.WriteLine(" Ejercicio 31 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio31();
+            Console.WriteLine(" Ejercicio 32 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio32();
+            Console.WriteLine(" Ejercicio 33 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio33();
+            Console.WriteLine(" Ejercicio 34 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio34();
+            Console.WriteLine(" Ejercicio 35 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio35();
+            Console.WriteLine(" Ejercicio 36 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio36();
+            Console.WriteLine(" Ejercicio 37 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio37();
+            Console.WriteLine(" Ejercicio 38 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio38();
+            Console.WriteLine(" Ejercicio 39 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio39();
+            Console.WriteLine(" Ejercicio 40 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio40();
+        }
     }
 }
