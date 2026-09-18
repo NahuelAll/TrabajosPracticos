@@ -127,6 +127,33 @@ namespace practicoResolucion
             Console.WriteLine(" Ejercicio 40 ");
             Console.WriteLine("***************");
             trabajos.Ejercicio40();
+            Console.WriteLine(" Ejercicio 41 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio41();
+            Console.WriteLine(" Ejercicio 42 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio42();
+            Console.WriteLine(" Ejercicio 43 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio43();
+            Console.WriteLine(" Ejercicio 44 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio44();
+            Console.WriteLine(" Ejercicio 45 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio45();
+            Console.WriteLine(" Ejercicio 46 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio46();
+            Console.WriteLine(" Ejercicio 47 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio47();
+            Console.WriteLine(" Ejercicio 48 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio48();
+            Console.WriteLine(" Ejercicio 49 ");
+            Console.WriteLine("***************");
+            trabajos.Ejercicio49();
         }
     }
 }
